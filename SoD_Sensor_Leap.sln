@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoD_Sensor_Leap", "SoD_Sensor_Leap\SoD_Sensor_Leap.csproj", "{75C93906-9D0D-490E-BE99-393DCBA908D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketIOClient", "SoD_Sensor_Leap\SocketIO\SocketIOClient.csproj", "{352C9BC1-F74C-4741-A09D-7227BC60C057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugILMerge|Any CPU = DebugILMerge|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseILMerge|Any CPU = ReleaseILMerge|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.DebugILMerge|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.DebugILMerge|Any CPU.Build.0 = Debug|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.ReleaseILMerge|Any CPU.ActiveCfg = Release|Any CPU
+		{75C93906-9D0D-490E-BE99-393DCBA908D6}.ReleaseILMerge|Any CPU.Build.0 = Release|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.DebugILMerge|Any CPU.ActiveCfg = DebugILMerge|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.DebugILMerge|Any CPU.Build.0 = DebugILMerge|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.ReleaseILMerge|Any CPU.ActiveCfg = ReleaseILMerge|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.ReleaseILMerge|Any CPU.Build.0 = ReleaseILMerge|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

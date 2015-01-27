@@ -1,0 +1,3 @@
+[submodule "SoD_CS_Library"]
+	path = SoD_CS_Library
+	url = https://github.com/ase-lab/SoD_CS_Library.git
