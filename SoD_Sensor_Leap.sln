@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30324.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoD_Sensor_Leap", "SoD_Sensor_Leap\SoD_Sensor_Leap.csproj", "{75C93906-9D0D-490E-BE99-393DCBA908D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketIOClient", "SoD_Sensor_Leap\SocketIO\SocketIOClient.csproj", "{352C9BC1-F74C-4741-A09D-7227BC60C057}"
